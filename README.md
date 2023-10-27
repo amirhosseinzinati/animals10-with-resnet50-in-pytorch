@@ -1,0 +1,1 @@
+# animals10-with-resnet50-in-pytorch
